@@ -1,8 +1,8 @@
 {
     "name": "vscode-run-workspace-tasks",
     "displayName": "vscode-run-workspace-tasks",
-    "description": "Run task from every multi-root workspace",
-    "version": "1.0.0",
+    "description": "Run task for every workspace folder in multi-root workspace",
+    "version": "1.0.1",
     "publisher": "asvetliakov",
     "license": "MIT",
     "repository": {
